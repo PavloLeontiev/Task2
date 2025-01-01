@@ -1,0 +1,24 @@
+From d6d97e05f6367f1c731532b727e8fc129bccc215 Mon Sep 17 00:00:00 2001
+From: Paul <null@gmail.com>
+Date: Fri, 16 Jan 2026 14:06:06 +0200
+Subject: [PATCH] update first two lines in firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..d002446 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1 step7
++2 step7
+ 3
+ 4
+ 5
+-- 
+2.50.1.windows.1
+
